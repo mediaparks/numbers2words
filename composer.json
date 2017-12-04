@@ -1,0 +1,22 @@
+{
+  "name": "jurchiks/numbers2words",
+  "description": "It spells numbers (and currencies)!",
+  "keywords": [
+    "numbers",
+    "currency",
+    "spell"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jurchiks",
+      "email": "jurchiks101@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "js\\tools\\numbers2words\\": "src/"
+    }
+  }
+}
